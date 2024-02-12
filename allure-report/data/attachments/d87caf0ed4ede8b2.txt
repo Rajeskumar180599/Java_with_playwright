@@ -1,0 +1,33 @@
+Navigating to the Domino's website
+Clicked online order button
+Clicked delivery address element
+Entered Area / Locality
+Clicked 'Don't Allow' button
+Navigating to Veg Pizza
+Adding 2 Peppy Paneer Pizzas to Cart
+Extra Cheese popup is displayed and Clicked No thanks Options
+Adding 2 Margherita Pizzas to Cart
+Extra Cheese popup not displayed
+Adding 2 Indi Tandoori Paneer Pizzas to Cart
+Extra Cheese popup not displayed
+Expected subtotal: 2494, Actual subtotal: 2494
+Subtotal validation passed.
+Clicked Beverages Menu
+Adding 12 Pepsi 475ml to Cart
+Pepsi 475ml added to Cart successfully.
+Removing Margherita from Cart
+Removing Pepsi 475ml from Cart
+Removing Pepsi 475ml from Cart
+Removing Pepsi 475ml from Cart
+Removing Pepsi 475ml from Cart
+Removing Pepsi 475ml from Cart
+Removing Pepsi 475ml from Cart
+Product: Peppy Paneer, Price Text: 459, Parsed Price: 459
+Product: Margherita, Price Text: 239, Parsed Price: 239
+Product: Indi Tandoori Paneer, Price Text: 549, Parsed Price: 549
+Product: "Beverage", Price Text: 60, Parsed Price: 60
+Expected subtotal: 2615, Actual subtotal: 2615, Cart Subtotal Text: 2615.00
+Subtotal validation passed.
+Clicked checkout button
+Validating subtotal
+Test Execution Successful

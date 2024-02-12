@@ -1,0 +1,25 @@
+{
+  "name": "dominos-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:qaWeb": "cross-env TEST_ENV=qaWeb npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.6.3",
+    "allure-playwright": "^2.8.1",
+    "cross-env": "^7.0.3",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.24.0",
+    "axios": "^1.5.0",
+    "playwright": "^1.37.1"
+  }
+}
